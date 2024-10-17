@@ -1,6 +1,5 @@
 from utils.ma import ma
 from models.usuario import Usuario
-
 from marshmallow import fields
 from schemas.tipo_usuario_schema import Tipo_usuario_Schema
 from schemas.persona_schema import Persona_Schema
